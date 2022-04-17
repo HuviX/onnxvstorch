@@ -1,4 +1,4 @@
-POST http://127.0.0.1:5000/predict_onnx HTTP/1.1
+POST http://0.0.0.0:8000/predict_onnx HTTP/1.1
 content-type: application/json
 
 {

@@ -32,6 +32,3 @@ def predict_onnx():
     text = input_data["data"]
     resp = o_model.predict(text)
     return jsonify(resp)
-
-if __name__ == "__main__":
-    app.run(debug=True)
