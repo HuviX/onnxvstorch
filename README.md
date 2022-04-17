@@ -9,6 +9,6 @@
 
 Примеры работы приложения:
 
-![image](resources/req1.png)
+![image](resources/req4.png)
 ![image](resources/req2.png)
 ![image](resources/req3.png)
