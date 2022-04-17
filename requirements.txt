@@ -1,0 +1,9 @@
+transformers
+onnxruntime
+numpy
+scipy
+flask
+torch==1.10.2
+psutil
+gevent
+gunicorn
